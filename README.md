@@ -16,5 +16,4 @@ The unprovoked nature of Notepad++ for China has provoked anger and protest from
 * Spread this projects to your friends.
 
 ## License
-Anti-Notepad++ License (in progress)
-
+[Anti-Notepad++ License](LICENSE)
